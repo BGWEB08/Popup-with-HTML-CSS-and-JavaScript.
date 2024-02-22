@@ -52,7 +52,9 @@ button {
     background: #fff;
     opacity: 0;
     pointer-events: none;
+    transition: all .3s ease-in-out;
 }
+
 
 .popup-container i{
     font-size: 60px;
