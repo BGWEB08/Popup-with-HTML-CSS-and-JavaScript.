@@ -9,4 +9,4 @@ Popup Window is a simple tool that displays a popup window in the center of the 
 - **Flexible Content:** Users view content in the popup window.
 ## Demo
 
-![Popup Window Demo](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Pop-Up/popup-img.png?raw=true)
+![Popup Window Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/Pop-Up/popup-img.png?raw=true)
